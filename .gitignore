@@ -9,3 +9,4 @@ __pycache__/
 GettingStarted.html
 .link_script.sct
 mbed_config.h
+*.bak
